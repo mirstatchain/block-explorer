@@ -1,4 +1,4 @@
-# mirstat network Explorer
+# Mirstat network Explorer
 
 Real-time block explorer for mirstat.
 
